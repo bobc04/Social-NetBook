@@ -7,7 +7,7 @@ Build an API from scratch for a social network web application.
 <p>This is a simple social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. This application uses Express.js for routing, a MongoDB database, and the Mongoose ODM.</p>
 
 # Link to Video
-Video url 'https://module-13-challenge-mp1l.onrender.com'
+Video url 'https://drive.google.com/file/d/1fa5eKefsUl5b7eZtYYgAwfG1inAqukW6/view?usp=sharing'
 
 ---
 
